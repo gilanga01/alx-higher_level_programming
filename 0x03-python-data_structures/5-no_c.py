@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-#!/usr/bin/python3
 # -----------------------------------------------------------
 # Python program that:
 # demonstrates how to removes all characters c and C from a string
