@@ -44,3 +44,4 @@ All of the following folders are projects done during the studies:
 | [`0x0D. SQL - Introduction`](https://github.com/wendymunyasi/alx-higher_level_programming/tree/master/0x0D-SQL_introduction) | It aims to leanrn about MySQL database and how to use it.|
 | [`0x0E. SQL - More queries`](https://github.com/wendymunyasi/alx-higher_level_programming/tree/master/0x0E-SQL_more_queries) | It aims to learn more about MySQL with regards to queries.|
 | [`0x0F. Python - Object-relational mapping`](https://github.com/wendymunyasi/alx-higher_level_programming/tree/master/0x0F-python-object_relational_mapping) | It aims to learn about the `this` keyword, ojects, scopes and closures in **JavaScript** language.|
+# alx-higher_level_programming
