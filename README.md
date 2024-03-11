@@ -2,11 +2,7 @@
 **Higher-level programming & Algorithm**
 
 ## Author's Details
-Name: *Wendy Munyasi.*
-
-Email: *wendymunyasi@gmail.com*
-
-Tel: *+254707240068.*
+Name: *Langat Kipkirui Gilbert.*
 
 ## Technologies
 * Shell Scripts written in Bash 5.0.17(1).
